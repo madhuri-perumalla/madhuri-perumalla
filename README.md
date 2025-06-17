@@ -3,7 +3,7 @@
   Passionate about exploring new technologies and solving real-world problems.
 </p>
 
----
+
 
 ## 🧠 About Me
 
@@ -16,7 +16,7 @@ You're welcome to connect with me for collaboration, tech discussions, or commun
 - 💻 I love combining creativity and code to build meaningful projects
 - 📬 Reach me: madhurisriperumalla@gmail.com
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -29,7 +29,7 @@ HTML, CSS, React, Git, AWS, VS Code
 *Databases:*  
 SQL, MongoDB
 
----
+
 
 
 ## 🤝 Connect With Me
@@ -46,7 +46,7 @@ SQL, MongoDB
   </a>
 </p>
 
----
+
 
 <p align="center">
   🚀 Always learning. Always building.
