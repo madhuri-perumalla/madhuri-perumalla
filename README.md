@@ -12,9 +12,9 @@ I bring creative thinking and a solid understanding of coding principles in Java
 You're welcome to connect with me for collaboration, tech discussions, or community engagement.
 
 - 🎓 Currently pursuing B.Tech in Computer Science and Engineering (AI & DS)
-- 🌍 Based in: India
+- 🌍 Location : India
 - 💻 I love combining creativity and code to build meaningful projects
-- 📬 Reach me: youremail@example.com
+- 📬 Reach me: madhurisriperumalla@gmail.com
 
 ---
 
@@ -44,10 +44,10 @@ SQL, MongoDB
 ## 🤝 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/madhuri">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:madhurisriperumalla@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://yourportfolio.com">
