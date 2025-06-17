@@ -31,15 +31,6 @@ SQL, MongoDB
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MadhuriPerumalla&show_icons=true&theme=github_dark&hide=prs" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MadhuriPerumalla&layout=compact&theme=github_dark" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
