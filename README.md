@@ -41,9 +41,6 @@ SQL, MongoDB
   <a href="mailto:madhurisriperumalla@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/-Portfolio-lightgrey?style=flat&logo=windowsterminal" />
-  </a>
 </p>
 
 
