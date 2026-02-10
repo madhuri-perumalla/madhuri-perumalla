@@ -1,13 +1,13 @@
-<h1 align="center">Hi👋, I'm Madhuri Perumalla</h1>
+<h1 align="center">Hi, I'm Madhuri Perumalla</h1>
 <p align="center">
   Passionate about exploring new technologies and solving real-world problems.
 </p>
 
 
 
-## 🧠 About Me
+##  About Me
 
-Hi 👋!! I'm passionate about exploring new technologies and using them to solve real-world problems.  
+Hi !! I'm passionate about exploring new technologies and using them to solve real-world problems.  
 I bring creative thinking and a solid understanding of coding principles in Java and Python.  
 You're welcome to connect with me for collaboration, tech discussions, or community engagement.
 
