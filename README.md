@@ -13,7 +13,7 @@ You're welcome to connect with me for collaboration, tech discussions, or commun
 
 - 🎓 Currently pursuing B.Tech in Computer Science and Engineering (AI & DS)
 - 🌍 Location : India
-- 💻 I love combining creativity and code to build meaningful projects
+- 💻 Combining creativity and code to build meaningful projects
 - 📬 Reach me: madhurisriperumalla@gmail.com
 
 
