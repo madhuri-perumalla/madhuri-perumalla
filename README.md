@@ -7,7 +7,7 @@ I'm a Computer Science student (AI & Data Science) who spends most of my time bu
 ## 🔎 What I'm building right now
 
 - **Open source:** Contributing to the Magma project through LFX mentorship - recently fixed async/await compatibility issues and Docker build failures blocking CI pipelines
-- **AI applications:** Building full-stack apps with React, Node.js, and Gemini AI that solve real problems
+- **AI applications:** Building full-stack apps with React, Node.js, and AI that solve real problems
 - **Problem solving:** 800+ DSA problems solved (LeetCode 1580+) and still practicing
 - **Cloud & systems:** Learning distributed architecture and how production systems work
 
