@@ -11,13 +11,13 @@ I'm a Computer Science student (AI & Data Science) who spends most of my time bu
 - **Problem solving:** 800+ DSA problems solved (LeetCode 1580+) and still practicing
 - **Cloud & systems:** Learning distributed architecture and how production systems work
 
----
+
 
 ## 🌍 Open source adventures
 
 My LFX mentorship with the Magma project has been incredible - I'm working on telecom infrastructure used by thousands of people. Some days I'm updating Python async code for 3.10+ compatibility, other days I'm fixing Docker build failures from Ruby dependency conflicts. It's amazing to see how small code changes can unblock entire development workflows.
 
----
+
 
 ## 🛠️ My toolkit
 
@@ -52,7 +52,7 @@ My LFX mentorship with the Magma project has been incredible - I'm working on te
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 🏆 Some cool moments
 
@@ -61,7 +61,7 @@ My LFX mentorship with the Magma project has been incredible - I'm working on te
 - 🏅 **5★ HackerRank:** Problem solving milestone
 - 🔐 **Cisco certified:** Cybersecurity and networking credentials
 
----
+
 
 ## 📫 Let's connect
 
