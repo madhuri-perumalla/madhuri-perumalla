@@ -1,4 +1,4 @@
-# Hi, I'm Madhuri 👋
+# Hi, I'm Madhuri !!
 
 I'm a Computer Science student (AI & Data Science) who spends most of my time building things with code. When I'm not debugging issues in open-source infrastructure, you'll probably find me crafting AI-powered web apps or solving DSA problems.
 
