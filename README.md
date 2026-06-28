@@ -4,7 +4,7 @@ Computer Science (AI & Data Science) student focused on backend engineering, ope
 
 
 
-# 🚀 Engineering Snapshot
+#  Engineering Snapshot
 
 | Focus              | Highlights                                                     |
 | :----------------- | :------------------------------------------------------------- |
@@ -20,9 +20,9 @@ Computer Science (AI & Data Science) student focused on backend engineering, ope
 
 | Organization | Explore |
 | :--- | :--- |
-| 🚀 **The Linux Foundation – Magma** | 🏅 [LFX Mentee Badge](https://www.credly.com/badges/7cc9c4f8-6f0f-4c20-95b7-01ec80a78d21/public_url) |
-| ⚙️ **Jenkins Infrastructure** | 🔀 [Merged Pull Requests](https://github.com/search?q=author%3Amadhuri-perumalla+is%3Apr+repo%3Ajenkins-infra%2Fjenkins.io+repo%3Ajenkins-infra%2Fcontributor-spotlight&type=pullrequests) |
-| 🌸 **GirlScript Summer of Code 2026** | 🏆 Top 2% Contributor • 🔀 [TermUI Pull Requests](https://github.com/search?q=author%3Amadhuri-perumalla+is%3Apr+repo%3AKaranjot786%2FTermUI&type=pullrequests) |
+|  **The Linux Foundation – Magma** | 🏅 [LFX Mentee Badge](https://www.credly.com/badges/7cc9c4f8-6f0f-4c20-95b7-01ec80a78d21/public_url) |
+|  **Jenkins Infrastructure** | 🔀 [Merged Pull Requests](https://github.com/search?q=author%3Amadhuri-perumalla+is%3Apr+repo%3Ajenkins-infra%2Fjenkins.io+repo%3Ajenkins-infra%2Fcontributor-spotlight&type=pullrequests) |
+|  **GirlScript Summer of Code 2026** | 🏆 Top 2% Contributor • 🔀 [TermUI Pull Requests](https://github.com/search?q=author%3Amadhuri-perumalla+is%3Apr+repo%3AKaranjot786%2FTermUI&type=pullrequests) |
 
 
 
