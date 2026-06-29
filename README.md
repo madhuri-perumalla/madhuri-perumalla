@@ -10,7 +10,7 @@ Computer Science (AI & Data Science) student focused on backend engineering, ope
 | :----------------- | :------------------------------------------------------------- |
 | 🎓 Education       | B.Tech Computer Science (AI & Data Science) • **CGPA: 8.79**   |
 | 🌍 Open Source     | **LFX (Magma)** • **Jenkins Infrastructure** • **GSSoC 2026**  |
-| 💻 Problem Solving | **800+ DSA Problems** • **LeetCode 1660+** • **HackerRank 5★** |
+| 💻 Problem Solving | **800+ DSA Problems** • **LeetCode Max Rating : 1686+** • **HackerRank 5★** |
 | 📄 Research        | Published at **ICSSA 2025**                                    |
 | 🏆 Recognition     | **LFX Graduate** • **Top 2% GSSoC Contributor**                |
 
